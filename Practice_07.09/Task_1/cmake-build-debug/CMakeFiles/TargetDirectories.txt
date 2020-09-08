@@ -1,0 +1,3 @@
+/Users/UVF/CLionProjects/Programming Labs/Practice_07.09/Task_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/UVF/CLionProjects/Programming Labs/Practice_07.09/Task_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/UVF/CLionProjects/Programming Labs/Practice_07.09/Task_1/cmake-build-debug/CMakeFiles/Task_1.dir
