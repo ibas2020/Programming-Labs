@@ -1,4 +1,4 @@
-// Задание №1
+// Лабораторная 1. Задание №1.
 
 #include <iostream>
 using namespace std;
